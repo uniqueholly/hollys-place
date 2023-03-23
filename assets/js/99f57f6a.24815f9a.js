@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhollys_place=self.webpackChunkhollys_place||[]).push([[3078],{6350:l=>{l.exports=JSON.parse('{"permalink":"/hollys-place/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

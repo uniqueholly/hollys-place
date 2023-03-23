@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhollys_place=self.webpackChunkhollys_place||[]).push([[4055],{8443:l=>{l.exports=JSON.parse('{"permalink":"/hollys-place/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

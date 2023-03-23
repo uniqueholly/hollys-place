@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhollys_place=self.webpackChunkhollys_place||[]).push([[1182],{6361:l=>{l.exports=JSON.parse('{"label":"hello","permalink":"/hollys-place/blog/tags/hello","allTagsPath":"/hollys-place/blog/tags","count":2}')}}]);
