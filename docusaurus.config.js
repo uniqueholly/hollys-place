@@ -31,6 +31,15 @@ const config = {
     defaultLocale: 'en',
     locales: ['en'],
   },
+  
+  plugins: [
+    [
+      '@docusaurus/plugin-google-tag-manager',
+      {
+        containerId: 'GTM-WKH5MN3'
+      },
+    ],
+  ],
 
   presets: [
     [
